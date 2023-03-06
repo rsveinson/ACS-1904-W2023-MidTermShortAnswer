@@ -79,9 +79,7 @@ public class ACs1904MidTermSAQuestions{
         // assert ch == 'C' && n >= 18 : "Input out of range";
 
         /* *** Q6 *** */
-        // MidTermDifficulty mid = MidTermDifficulty.EASY;
 
-        // System.out.println(mid.getDifficulty());
 
         // short codding find matches in two lists
         // final int MAX = 100;
