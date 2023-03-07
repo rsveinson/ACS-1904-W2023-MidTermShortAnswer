@@ -40,7 +40,7 @@ public class ACs1904MidTermSAQuestions{
         // System.out.println();
         // }
 
-        // // check adjacent cells
+        // // // check adjacent cells
 
         // int r = 3;
         // int c = 2;

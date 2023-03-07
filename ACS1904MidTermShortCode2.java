@@ -14,6 +14,14 @@ public class ACS1904MidTermShortCode2{
         String strin;
         int totalTokens;
         
+        totalTokens = 0;
+        
+        while(fin.hasNext()){
+            strin = fin.nextLine();
+            tokens = strin.split("[ ,]+");
+            totalTokens += tokens.length;
+            //System.out.println(strin);
+        }//end eof
         
         
         System.out.println(totalTokens);
